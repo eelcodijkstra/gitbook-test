@@ -26,3 +26,7 @@ This is some additional text, to test the Gitbook update process. For the previo
 
 
 
+It is also possible to use the desktop-editor. Perhaps this will result in a better update?
+
+
+
